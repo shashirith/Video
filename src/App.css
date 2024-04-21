@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  align-items: center;
+  font-family: sans-serif;
+  flex-direction: column;
+  height: 100vh;
+  padding: 8px;
+}
